@@ -1,0 +1,12 @@
+# 内容：国外媒体列表
+# 更新：2021-12-26 22:03:43
+# 数量：314条
+
+# ABC
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nbys1.tv
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapi.cn
+IP-CIDR,104.22.0.0/16
+IP-CIDR,172.67.31.0/21
